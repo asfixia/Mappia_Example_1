@@ -257,7 +257,7 @@
 				<Title>massas_dagua_fbds_mg</Title>
 				<Abstract>GH:massas_dagua_fbds_mg ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:10</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-51.42799174680523" miny="-23.269975003870307" maxx="-38.82174142964279" maxy="-13.806887516966324"></LatLonBoundingBox>
